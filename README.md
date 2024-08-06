@@ -128,4 +128,3 @@ If you encounter a "Permission denied" error, ensure you have the appropriate pe
 ### Log File Not Found
 
 Ensure the log file exists in the specified directory and the path is correct.
-```
